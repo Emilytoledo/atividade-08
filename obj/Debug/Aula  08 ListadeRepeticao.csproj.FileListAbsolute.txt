@@ -1,0 +1,7 @@
+C:\Users\emily.cntoledo\source\repos\Aula  08 ListadeRepeticao\Aula  08 ListadeRepeticao\obj\Debug\Aula  08 ListadeRepeticao.csproj.AssemblyReference.cache
+C:\Users\emily.cntoledo\source\repos\Aula  08 ListadeRepeticao\Aula  08 ListadeRepeticao\obj\Debug\Aula  08 ListadeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\emily.cntoledo\source\repos\Aula  08 ListadeRepeticao\Aula  08 ListadeRepeticao\bin\Debug\Aula  08 ListadeRepeticao.exe.config
+C:\Users\emily.cntoledo\source\repos\Aula  08 ListadeRepeticao\Aula  08 ListadeRepeticao\bin\Debug\Aula  08 ListadeRepeticao.exe
+C:\Users\emily.cntoledo\source\repos\Aula  08 ListadeRepeticao\Aula  08 ListadeRepeticao\bin\Debug\Aula  08 ListadeRepeticao.pdb
+C:\Users\emily.cntoledo\source\repos\Aula  08 ListadeRepeticao\Aula  08 ListadeRepeticao\obj\Debug\Aula  08 ListadeRepeticao.exe
+C:\Users\emily.cntoledo\source\repos\Aula  08 ListadeRepeticao\Aula  08 ListadeRepeticao\obj\Debug\Aula  08 ListadeRepeticao.pdb
